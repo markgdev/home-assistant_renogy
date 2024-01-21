@@ -16,7 +16,7 @@ Paramenters:
 
 I can't remember how I found the Modbus IDs of my devices, please raise an issue if you can offer advice for others to follow.
 
-# Sources
+## Sources
 I used these sources to help get started with development. Some methods have been reused from these projects.
 
 https://github.com/cyrils/renogy-bt
