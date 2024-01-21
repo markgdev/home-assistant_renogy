@@ -15,3 +15,10 @@ Paramenters:
 |Controller IDs |A comma sperated list of the modbus IDs of your controllers (ommit the comma if only 1)
 
 I can't remember how I found the Modbus IDs of my devices, please raise an issue if you can offer advice for others to follow.
+
+# Sources
+I used these sources to help get started with development. Some methods have been reused from these projects.
+
+https://github.com/cyrils/renogy-bt
+
+https://github.com/Olen/solar-monitor/
